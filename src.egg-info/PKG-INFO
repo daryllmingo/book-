@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Book Recommender System using Machine Learning for academic submission
+Home-page: https://github.com/daryllmingo/Books-Recommender-System-Using-Machine-Learning
+Author: daryllmingo
+Author-email: gb5479461@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: pandas
